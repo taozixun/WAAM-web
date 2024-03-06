@@ -1,0 +1,46 @@
+
+.body{
+    padding-top: 114px;
+    width: 100%;
+
+}
+.CUtitle{
+    height:230px;
+    font-size: 38px;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff;
+    line-height: 230px;
+}
+.CUtitle>div{
+    margin: 0 200px -100px;
+}
+.CUbox{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 40PX 0;
+}
+.CUbody{
+    width: 37%;
+    padding-left: 40px;
+}
+.CUbody-right{
+    width: 55%;
+}
+.mapContain2{
+    max-height: 1px;
+    overflow: hidden;
+    opacity: 0;
+}
+.CUbody>div{
+    margin-bottom: 5px;
+}
+.strongItem{
+    color: #003399;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20PX;
+}

@@ -1,0 +1,118 @@
+
+.body{
+    padding-top: 114px;
+    width: 100%;
+
+}
+.bodychild-2{
+    display: flex;
+    padding: 0 50px;
+    min-height: 350px;
+}
+.bodychild-2-item{
+    flex: 1;
+    background: white;
+}
+.bodychild-2-item > h1{
+    color: #0761A9;
+}
+.bodychild-2-bt{
+    display: flex;
+    margin: 10px 25% 20px;
+    justify-content: space-between;
+}
+.bt-2{
+    background:#0761A9;
+    width: 150px;
+    float: right;
+    bottom: -10px;
+
+}
+.bodychild-3{
+    display: flex;
+    padding: 0 50px;
+    min-height: 350px;
+    margin-bottom: 70px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.bodychild-3-item{
+    width: 49%;
+    background: white;
+}
+.bodychild-3-item > h1{
+    color: #0761A9;
+}
+.downloadItem{
+    color: #f89811;
+    float: left;
+    font-size: 18px;
+    line-height: 26px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: -5px;
+    margin-left: 10px;
+    height: 30px;
+}
+.downloadItem:hover{
+    color: #c90a27;
+}
+.bodychild-4{
+    text-align: center;
+}
+.bodychild-4 > h1{
+    color: #0761A9;
+}
+.bodychild-4 >.title{
+    color: #0066cc;
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+.bodychild-4 >.tag{
+    color: rgb(169, 169, 169);
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+.humanName{
+    color: #000000;
+    font-size: 15px;
+}
+.mapContain{
+    margin-top: 30px;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.address{
+    margin-bottom: 5px;
+}
+.bodychild-3-2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.bodychild-3-2 > h1{
+    color: #0761A9;
+}
+.bodychild-3-2>div{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.bodychild-3-2 >.title{
+    color: #0066cc;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+/* .enrool{
+    float: right;
+    margin-top: 28px;
+    font-size: 26px;
+    cursor: pointer;
+    color: #0066cc;
+  }
+  .enrool:hover{
+    color: #00BFFF;
+  }
+  .cash{
+    font-size: 20px;
+    color:red;
+  } */
